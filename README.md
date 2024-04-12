@@ -36,4 +36,6 @@ This Tic-Tac-Toe game was created by [Soumik_Deb_Niloy].
 
 ## Interface:
 
-[tic_tac_toe_board.png]
+![Example Image](Start_tic.png)
+![Example Image](tic_tac_toe_board.png)
+![Example Image](win.png)
